@@ -1,6 +1,0 @@
-seq_lens: [1024, 2048, 4096, 8192]
-gen_tokens: 128
-batches: [1, 2, 4, 8]
-warmup: 20
-iters: 200
-fp16: true
