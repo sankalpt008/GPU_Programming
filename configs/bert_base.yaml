@@ -1,5 +1,0 @@
-seq_lens: [64, 128, 256, 512]
-batches: [8, 16, 32, 64]
-warmup: 50
-iters: 500
-fp16: true
