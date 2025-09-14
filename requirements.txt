@@ -1,0 +1,14 @@
+torch
+transformers
+datasets
+onnx
+onnxruntime-gpu
+onnxruntime
+tensorrt; platform_system=="Linux"
+pynvml
+numpy
+pandas
+matplotlib
+pyyaml
+tqdm
+vllm
